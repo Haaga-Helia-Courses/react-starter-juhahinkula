@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "React test",
+      "setup": "npm install",
+      "run": "npm test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 4,
+      "points": null
+    }
+  ]
+}
